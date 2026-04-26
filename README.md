@@ -1,7 +1,8 @@
-# ES茳风的机场 KawakazeES's Airport
->Airport facilities for VRChat
+# VRChat Open Airport
+>Build your airport like LEGO in VRChat!
+>在VRChat里像玩乐高一样搭建机场！
 
-这是一个包含了一些机场设施的库，适用于VRChat世界。
+这是一个包含了一些机场设施的库，适用于VRChat世界，部分内容需要 https://github.com/Sacchan-VRC/SaccFlightAndVehicles/releases/tag/1.64 为依赖项目。
 
 ## 已实现的
 - VDGS 视觉对接引导系统
